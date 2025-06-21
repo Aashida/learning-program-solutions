@@ -1,0 +1,5 @@
+🔍 Linear Search:
+Result: Sneakers (Footwear)
+
+🔍 Binary Search (on sorted list):
+Result: Sneakers (Footwear)
